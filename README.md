@@ -15,7 +15,7 @@ I'm a passionate Mobile App Developement. I love working on different languages 
 - NPM Pakage react-native-progress-bars https://github.com/harshil19/react-native-progress-bars
 
 ## Get in Touch
-- LinkedIn: Harshil Panchal https://www.linkedin.com/in/harshil-panchal-b254872b1/
+- LinkedIn: Harshil Panchal (https://www.linkedin.com/in/harshil-panchal-b254872b1/)
 - Twitter: Harshil Panchal/Mann Mojilo Manas (https://twitter.com/mannmojilomanas)
 
 ## Stats
