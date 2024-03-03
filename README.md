@@ -6,17 +6,17 @@ I'm a passionate Mobile App Developement. I love working on different languages 
 
 ## Skills
 
-- Programming Languages: [Javascript, Python]
-- Mobile Technologies: [React-Native, Flutter, Android]
-- Tools: [VS Code, Pycharm, Xcode, Android Studio]
-<!--
+- Programming Languages: Javascript, Python
+- Mobile Technologies: React-Native, Flutter, Android
+- Tools: VS Code, Pycharm, Xcode, Android Studio
+
 ## Projects
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
- -->
+- Node API https://github.com/harshil19/node_crud_api
+- NPM Pakage react-native-progress-bars https://github.com/harshil19/react-native-progress-bars
+
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [Your Twitter Profile](Link to Twitter)
+- LinkedIn: Harshil Panchal https://www.linkedin.com/in/harshil-panchal-b254872b1/
+- Twitter: Harshil Panchal/Mann Mojilo Manas (https://twitter.com/mannmojilomanas)
 
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=issues&theme=radical)
