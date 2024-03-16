@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Mobile App Developement. I love working on different languages and contributing to open-source projects.
+I'm a passionate to learn new stuff related to Tech Development. I love working on different languages and contributing to open-source projects.
 
 ## Skills
 
