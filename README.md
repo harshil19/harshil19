@@ -11,8 +11,8 @@ I'm a passionate to learn new stuff related to Tech Development. I love working 
 - Tools ![VS Code](https://img.shields.io/badge/visual%20studio%20code-black.svg?style=for-the-badge&logo=visualstudiocode&logoColor=137FCB)  ![Android Studio](https://img.shields.io/badge/android_studio-black.svg?style=for-the-badge&logo=androidstudio&logoColor=#3DDC84) ![Xcode](https://img.shields.io/badge/xcode-black.svg?style=for-the-badge&logo=xcode&logoColor=176DE3) ![Pycharm](https://img.shields.io/badge/pycharm-black.svg?style=for-the-badge&logo=pycharm&logoColor=#000000)
 
 
-## Projects
-- Node API https://github.com/harshil19/node_crud_api
+<!-- ## Projects
+- Node API https://github.com/harshil19/node_crud_api -->
 
 ## Get in Touch
 -  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshil_panchal_1908) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-panchal-b254872b1/) [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=x)](https://twitter.com/mannmojilomanas) 
