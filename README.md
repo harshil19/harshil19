@@ -23,7 +23,11 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,dart,firebase" height="40" />
 
 ### 🌐 Mobile & Frontend Frameworks
-<img src="https://skillicons.dev/icons?i=react,flutter,android,ios,nextjs" height="40" />
+<img src="https://skillicons.dev/icons?i=react" height="40" title="React Native" />
+<img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
+<img src="https://skillicons.dev/icons?i=android" height="40" title="Android" />
+<img src="https://skillicons.dev/icons?i=apple" height="40" title="iOS" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js" />
 
 ### ⚙️ State Management & Navigation
 <img src="https://skillicons.dev/icons?i=redux,redux,react" height="40" />
