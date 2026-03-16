@@ -23,17 +23,17 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,dart,firebase" height="40" />
 
 ### 🌐 Mobile & Frontend Frameworks
-<img src="https://skillicons.dev/icons?i=react" height="40" title="React Native" />
-<img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
-<img src="https://skillicons.dev/icons?i=android" height="40" title="Android" />
-<img src="https://skillicons.dev/icons?i=apple" height="40" title="iOS" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=react,flutter,android,apple,nextjs" height="40" />
 
 ### ⚙️ State Management & Navigation
-<img src="https://skillicons.dev/icons?i=redux,redux,react" height="40" />
+<img src="https://skillicons.dev/icons?i=redux,redux-toolkit,reactnavigation" height="40" />
 
 ### 🗄 Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="40" />
+
+Other Concepts:  
+REST APIs | Firebase Auth & Google Services | Payment Gateway Integration  
+Freelance projects with **Next.js + Node.js/Express.js + MongoDB**
 
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" height="40" />
