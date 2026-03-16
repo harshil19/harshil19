@@ -68,16 +68,16 @@ Designed **responsive UI with modern frontend frameworks**
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/harshil-panchal-b254872b1/">
+<a href="https://www.linkedin.com/in/harshil-panchal-b254872b1/" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://instagram.com/harshil_panchal_198">
+<a href="https://instagram.com/harshil_panchal_198" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
-<a href="https://twitter.com/mannmojilomanas">
+<a href="https://twitter.com/mannmojilomanas" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
-<a href="mailto:harshilpanchal1998@gmail.com">
+<a href="mailto:harshilpanchal1998@gmail.com" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
