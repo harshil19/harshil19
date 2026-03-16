@@ -71,7 +71,7 @@ Designed **responsive UI with modern frontend frameworks**
 <a href="https://www.linkedin.com/in/harshil-panchal-b254872b1/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://instagram.com/harshil_panchal_1908">
+<a href="https://instagram.com/harshil_panchal_198">
 <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 <a href="https://twitter.com/mannmojilomanas">
