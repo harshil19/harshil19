@@ -1,90 +1,119 @@
-# 👋 Hello, I'm Harshil Panchal
+# Hi 👋, I'm Harshil Panchal
 
-## About Me
-I'm a passionate developer who loves building **mobile and web applications**.  
-I enjoy learning new technologies, contributing to **open-source projects**, and creating **scalable, high-performance software**.  
+### 🚀 React Native & Full-Stack Developer | Mobile & Web Enthusiast | Problem Solver
 
----
-
-## 🛠 My Skills
-
-### Programming Languages
-<div align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3572A4?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</div>
+💻 Passionate about building **scalable mobile apps and full-stack web platforms**.  
+🌱 Currently exploring **React Native, Flutter, Next.js, Node.js, and advanced UI/UX patterns**.  
+⚡ Focused on **state management, backend APIs, database design, and performance optimization**.
 
 ---
 
-### Mobile & Frontend Frameworks
-<div align="center">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</div>
+## 👨‍💻 About Me
+
+* 💡 Passionate about learning new tech and contributing to **open-source projects**  
+* 🌍 Based in **India**  
+* 🛠 Experienced in **mobile-first development, clean architecture, responsive UI design, and full-stack solutions**  
+* 👨‍💻 Worked as a **freelancer building Next.js + Node.js + MongoDB applications**  
 
 ---
 
-### State Management & Navigation
-<div align="center">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-4346B1?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="React Navigation" src="https://img.shields.io/badge/React_Navigation-00C7B7?style=for-the-badge&logo=reactnavigation&logoColor=white"/>
-</div>
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+### 🌐 Mobile & Frontend Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter,android,ios,nextjs" />
+</p>
+
+### ⚙️ State Management & Navigation
+<p>
+<img src="https://skillicons.dev/icons?i=redux" />
+<img src="https://skillicons.dev/icons?i=redux" /> <!-- Redux Toolkit -->
+<img src="https://skillicons.dev/icons?i=react" /> <!-- React Navigation -->
+</p>
+
+### 🗄 Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,firebase" />
+</p>
+
+Other Concepts  
+* REST APIs & API integration  
+* Firebase Auth & Google Services  
+* Payment Gateway Integration  
+* Freelance experience building **Next.js full-stack applications with Node.js/Express.js and MongoDB**  
+
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+</p>
+
+Other Tools  
+* Android Studio / Xcode  
+* Debugging & Profiling tools  
+* Agile & Scrum workflow  
 
 ---
 
-### Backend & Databases
-<div align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</div>
+## 💼 Freelance Projects Highlights
 
----
-
-### Tools & IDEs
-<div align="center">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-176DE3?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-F15023?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-4642FF?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
-
----
-
-### Other Skills
-<div align="center">
-  <img alt="REST API" src="https://img.shields.io/badge/RESTful_API-FF6F61?style=for-the-badge"/>
-  <img alt="Google Maps" src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img alt="Google AdMob" src="https://img.shields.io/badge/Google_AdMob-FFCC00?style=for-the-badge&logo=google&logoColor=black"/>
-  <img alt="UI/UX" src="https://img.shields.io/badge/UI_UX-FF69B4?style=for-the-badge"/>
-  <img alt="Agile & Scrum" src="https://img.shields.io/badge/Agile_Scrum-0A0A0A?style=for-the-badge&logo=trello&logoColor=white"/>
-</div>
-
----
-
-## 📬 Get in Touch
-<div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshil_panchal_1908) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-panchal-b254872b1/) 
-[![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=x)](https://twitter.com/mannmojilomanas)
-</div>
-📧 harshilpanchal1998@gmail.com
+* Built **Next.js SaaS Platforms** with **Node.js + Express + MongoDB backend**  
+* Integrated **REST APIs, authentication, and payment gateways**  
+* Optimized **database queries and API performance** for production  
+* Designed **responsive UI with modern frontend frameworks**  
 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=harshil19&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshil19&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshil19&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil19&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil19&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/harshil-panchal-b254872b1/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/harshil_panchal_1908">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://twitter.com/mannmojilomanas">
+<img src="https://skillicons.dev/icons?i=x" />
+</a>
+<a href="mailto:harshilpanchal1998@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+# ✨ Quote I Believe In
+
+> *“Code is not just about solving problems — it's about creating possibilities.”*
+
+---
+
+### 🚀 Next-Level Enhancements (Optional)
+If you want, I can make a **next-level version** of this profile with:  
+* **Hover effects on skill badges**  
+* **Clickable badges linking to official docs**  
+* **Animated typing intro in the header**  
+
+---
+
+⭐ **Thanks for visiting my profile!**
