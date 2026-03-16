@@ -20,24 +20,30 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,firebase" />
-</p>
+- ![JavaScript](https://skillicons.dev/icons?i=js) 
+- ![TypeScript](https://skillicons.dev/icons?i=ts) 
+- ![Python](https://skillicons.dev/icons?i=python) 
+- ![Dart](https://skillicons.dev/icons?i=dart) 
+- ![Firebase](https://skillicons.dev/icons?i=firebase) 
 
 ### 🌐 Mobile & Frontend Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter,android,ios,nextjs" />
-</p>
+- ![React](https://skillicons.dev/icons?i=react)
+- ![Flutter](https://skillicons.dev/icons?i=flutter)
+- ![Android](https://skillicons.dev/icons?i=android)
+- ![iOS](https://skillicons.dev/icons?i=ios)
+- ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ### ⚙️ State Management & Navigation
-<p>
-<img src="https://skillicons.dev/icons?i=redux,react" />
-</p>
+- ![Redux](https://skillicons.dev/icons?i=redux)
+- ![Redux Toolkit](https://skillicons.dev/icons?i=redux)
+- ![React Navigation](https://skillicons.dev/icons?i=react)
 
 ### 🗄 Backend & Databases
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,firebase" />
-</p>
+- ![Node.js](https://skillicons.dev/icons?i=nodejs)
+- ![Express](https://skillicons.dev/icons?i=express)
+- ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+- ![SQL](https://skillicons.dev/icons?i=mysql)
+- ![Firebase](https://skillicons.dev/icons?i=firebase)
 
 Other Concepts:  
 * REST APIs & API integration  
@@ -46,9 +52,12 @@ Other Concepts:
 * Freelance projects with **Next.js + Node.js/Express.js + MongoDB**
 
 ### 🧰 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
-</p>
+- ![Git](https://skillicons.dev/icons?i=git)
+- ![GitHub](https://skillicons.dev/icons?i=github)
+- ![VS Code](https://skillicons.dev/icons?i=vscode)
+- ![Postman](https://skillicons.dev/icons?i=postman)
+- ![Figma](https://skillicons.dev/icons?i=figma)
+- ![Linux](https://skillicons.dev/icons?i=linux)
 
 Other Tools:  
 * Android Studio / Xcode  
@@ -96,3 +105,5 @@ Other Tools:
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+
+---
