@@ -75,7 +75,7 @@ Designed **responsive UI with modern frontend frameworks**
 <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 <a href="https://twitter.com/mannmojilomanas">
-<img src="https://skillicons.dev/icons?i=x" height="40" />
+<img src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
 <a href="mailto:harshilpanchal1998@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
