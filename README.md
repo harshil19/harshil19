@@ -20,38 +20,21 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js" width="50" /> 
-<img src="https://skillicons.dev/icons?i=ts" width="50" />
-<img src="https://skillicons.dev/icons?i=python" width="50" /> 
-<img src="https://skillicons.dev/icons?i=dart" width="50" /> 
-<img src="https://skillicons.dev/icons?i=firebase" width="50" /> 
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,firebase" height="40" />
 
 ### 🌐 Mobile & Frontend Frameworks
-<img src="https://skillicons.dev/icons?i=react" width="50" />
-<img src="https://skillicons.dev/icons?i=flutter" width="50" />
-<img src="https://skillicons.dev/icons?i=android" width="50" />
-<img src="https://skillicons.dev/icons?i=ios" width="50" />
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+<img src="https://skillicons.dev/icons?i=react,flutter,android,ios,nextjs" height="40" />
 
 ### ⚙️ State Management & Navigation
-<img src="https://skillicons.dev/icons?i=redux" width="50" />
-<img src="https://skillicons.dev/icons?i=redux" width="50" /> <!-- Redux Toolkit -->
-<img src="https://skillicons.dev/icons?i=react" width="50" /> <!-- React Navigation -->
+<img src="https://skillicons.dev/icons?i=redux,redux,react" height="40" />
 
 ### 🗄 Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" />
-<img src="https://skillicons.dev/icons?i=express" width="50" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" />
-<img src="https://skillicons.dev/icons?i=mysql" width="50" />
-<img src="https://skillicons.dev/icons?i=firebase" width="50" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="40" />
 
 ### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git" width="50" />
-<img src="https://skillicons.dev/icons?i=github" width="50" />
-<img src="https://skillicons.dev/icons?i=vscode" width="50" />
-<img src="https://skillicons.dev/icons?i=postman" width="50" />
-<img src="https://skillicons.dev/icons?i=figma" width="50" />
-<img src="https://skillicons.dev/icons?i=linux" width="50" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" height="40" />
+
+Other Tools: Android Studio / Xcode | Debugging & Profiling | Agile & Scrum workflow
 
 ---
 
@@ -82,16 +65,16 @@ Designed **responsive UI with modern frontend frameworks**
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/harshil-panchal-b254872b1/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://instagram.com/harshil_panchal_1908">
-<img src="https://skillicons.dev/icons?i=instagram" width="50" />
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 <a href="https://twitter.com/mannmojilomanas">
-<img src="https://skillicons.dev/icons?i=x" width="50" />
+<img src="https://skillicons.dev/icons?i=x" height="40" />
 </a>
 <a href="mailto:harshilpanchal1998@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
